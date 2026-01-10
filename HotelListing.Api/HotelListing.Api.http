@@ -25,7 +25,6 @@ DELETE {{HotelListing.Api_HostAddress}}/api/hotel/{{id}}
 GET {{HotelListing.Api_HostAddress}}/api/hotel/{{id}}
 
 ###
-
 PUT {{HotelListing.Api_HostAddress}}/api/hotel/{{id}}
 Content-Type: application/json
 
